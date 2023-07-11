@@ -188,6 +188,7 @@ body{
     font-style: normal;
     font-weight: 800;
     line-height: normal;
+    padding-top: 100px;
 }
 
 /*footer*/
@@ -213,6 +214,7 @@ body{
 }
 
 .final-name{
+    padding-top: 100px;
     font-size: 48px;
     margin-top: 20px;
     font-weight: 800;
